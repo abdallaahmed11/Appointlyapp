@@ -1,4 +1,4 @@
-# ahjzzapp
+# Appointly
 
 A new Flutter project.
 
