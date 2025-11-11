@@ -155,7 +155,7 @@ class SignUpView extends StatelessWidget {
         ),
         SizedBox(height: 12),
         Text(
-          'Ahjiz', // [cite: 11]
+          'Appointly', // [cite: 11]
           style: TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.bold,

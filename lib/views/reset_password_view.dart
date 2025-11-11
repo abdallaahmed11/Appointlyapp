@@ -121,7 +121,7 @@ class ResetPasswordView extends StatelessWidget {
         ),
         SizedBox(height: 12),
         Text(
-          'Ahjiz', // [cite: 25]
+          'Appointly', // [cite: 25]
           style: TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.bold,

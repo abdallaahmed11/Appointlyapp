@@ -137,7 +137,7 @@ class LoginView extends StatelessWidget {
         ),
         SizedBox(height: 12),
         Text(
-          "app_title".tr(), // (اسم التطبيق مترجم)
+          "Appointly", // (اسم التطبيق مترجم)
           style: TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.bold,
